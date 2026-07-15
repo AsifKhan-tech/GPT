@@ -1,0 +1,15 @@
+# Steps to create the Project
+
+Chapter -0: Project initialization and shadcn setup
+
+1. Initialize the Next.js Project
+    pnpm create next-app@latest
+    
+2. Setup shadcn UI
+    pnpm dlx shadcn@latest init --preset b27I2r68 --template next
+
+    2.1 Install all components
+        pnpm dlx shadcn@latest add
+
+ 
+
